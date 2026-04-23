@@ -12,9 +12,10 @@ _Obs: Escolha um nome adequado ao invés de "main" após o "-o"_
 
 ### Como Funciona
 
-Após compilar o programa e executar o binário:
+Execute o programa com:
 ```ps1
 ./main
 ```
-O usuário insere o número de caracteres que deseja para a senha, e o
+Após compilar o programa e executar o binário o usuário insere o 
+número de caracteres que deseja para a senha, e o
 programa devolve uma senha com essa quantidade desejada.

@@ -18,4 +18,4 @@ Execute o programa com:
 ```
 Após compilar o programa e executar o binário o usuário insere o 
 número de caracteres que deseja para a senha, e o
-programa devolve uma senha com essa quantidade desejada.
+programa devolve uma senha aleatória com essa quantidade desejada.
